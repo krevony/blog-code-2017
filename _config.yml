@@ -3,7 +3,7 @@ pygments: true
 markdown: kramdown
 url: http://krevony.github.io
 name: KYLOG
-description: ÀåÀÎÁ¤½ÅÀ» °¡Áø µğÀÚÀÌ³Ê, ¿­Á¤ÀÖ´Â ÇÁ·Î±×·¡¸Ó.<br />°¨¼ºÀû ÇÁ·Î±×·¡¸Ó, ÀÌ¼ºÀû µğÀÚÀÌ³Ê.
+description: ì¥ì¸ì •ì‹ ì„ ê°€ì§„ ë””ìì´ë„ˆ, ì—´ì •ìˆëŠ” í”„ë¡œê·¸ë˜ë¨¸. <br />ê°ì„±ì  í”„ë¡œê·¸ë˜ë¨¸, ì´ì„±ì  ë””ìì´ë„ˆ.
 author: Kyle Lee
 avatar: http://www.gravatar.com/avatar/8776ebb9011c7f999007b947e6565f43?s=120&d=mm&r=g
 ga_domain: 
